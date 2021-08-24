@@ -1,0 +1,15 @@
+.memory-button:hover{
+    transition: 1s;
+    background: red;
+    color: white;
+}
+.storage-button:hover{
+    transition: 1s;
+    background: rgb(13, 207, 207);
+    color: white;
+}
+.delivery-button:hover{
+    transition: 1s;
+    background: rgb(131, 2, 148);
+    color: white;
+}
